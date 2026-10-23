@@ -1,2 +1,2 @@
-# DA-Visuakization-with-Seaborn
+# DA-Visualization-with-Seaborn
 Data Analyst with Seaborn
