@@ -1,21 +1,18 @@
-"""Using Seaborn's lineplot(), plot the daily temperature trend for one week using the following data: days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
- temps = [32, 34, 33, 35, 36, 37, 34]. Label the axes and title the chart 'Weekly Temperature Trend'.
+"""Use sns.countplot() to visualize the number of orders placed by each payment method 
+(e.g., UPI, Card, Cash) in a sample Swiggy orders DataFrame with at least 3 payment types.
 """
-import pandas as pd
+
+import pandas as pd 
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
-temps = [32, 34, 33, 35, 36, 37, 34]
+swiggy_orders = pd.DataFrame({
+    'Order_ID': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    'Payment_Method': ['UPI', 'Card', 'Cash', 'UPI', 'Card', 'Cash', 'UPI', 'Card', 'Cash', 'UPI']})
 
-# Create a DataFrame for the data
-data = pd.DataFrame({'Days': days, 'Temperature': temps})
-
-# Plot the lineplot
-sns.lineplot(data=data, x='Days', y='Temperature', marker='o', color='b')
-plt.xlabel('Days')
-plt.ylabel('Temperature (°F)')
-plt.title('Weekly Temperature Trend')
-plt.tight_layout()
-plt.grid(alpha=0.3)
+sns.countplot(x="Payment_Method", data=swiggy_orders)
+plt.title("Number of orders by Payment method")
+plt.xlabel("Payment Method")
+plt.ylabel("Number of Orders")
 plt.show()
+
