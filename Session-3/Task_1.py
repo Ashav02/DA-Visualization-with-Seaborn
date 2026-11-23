@@ -1,21 +1,17 @@
-"""Using Seaborn's lineplot(), plot the daily temperature trend for one week using the following data: days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
- temps = [32, 34, 33, 35, 36, 37, 34]. Label the axes and title the chart 'Weekly Temperature Trend'.
+"""Import Seaborn and use sns.histplot() to visualize the distribution of delivery times (in minutes)
+ from a sample Swiggy order dataset with at least 30 values.
 """
-import pandas as pd
+
+
 import seaborn as sns
 import matplotlib.pyplot as plt
+import pandas as pd 
 
-days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
-temps = [32, 34, 33, 35, 36, 37, 34]
+swiggy_order_data = pd.DataFrame({'Delivery_time': [30, 25, 40, 35, 20, 47, 50, 30, 28, 39, 33, 21, 45, 44, 37,
+                                                    51, 33, 27, 42, 34, 23, 41, 54, 36, 25, 40, 35, 20, 47, 49]})
 
-# Create a DataFrame for the data
-data = pd.DataFrame({'Days': days, 'Temperature': temps})
-
-# Plot the lineplot
-sns.lineplot(data=data, x='Days', y='Temperature', marker='o', color='b')
-plt.xlabel('Days')
-plt.ylabel('Temperature (°F)')
-plt.title('Weekly Temperature Trend')
-plt.tight_layout()
-plt.grid(alpha=0.3)
+sns.histplot(data=swiggy_order_data, x="Delivery_time", bins=10, kde=True)
+plt.xlabel("Delivery Time (min)")
+plt.ylabel("Frequency")
+plt.title("Distribution of Delivery Times for Swiggy Orders")
 plt.show()
