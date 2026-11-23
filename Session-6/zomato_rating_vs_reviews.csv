@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,cuisine,rating,number_of_reviews
+1,Sample Restaurant 1,Pune,South Indian,4.0,144
+2,Sample Restaurant 2,Ahmedabad,South Indian,3.3,408
+3,Sample Restaurant 3,Surat,Fast Food,4.2,163
+4,Sample Restaurant 4,Surat,Biryani,4.3,457
+5,Sample Restaurant 5,Surat,Desserts,2.8,31
+6,Sample Restaurant 6,Ahmedabad,Desserts,3.1,87
+7,Sample Restaurant 7,Ahmedabad,Fast Food,3.9,81
+8,Sample Restaurant 8,Mumbai,North Indian,3.6,117
+9,Sample Restaurant 9,Pune,Desserts,3.8,386
+10,Sample Restaurant 10,Ahmedabad,Gujarati,3.4,29
+11,Sample Restaurant 11,Surat,Pizza,4.2,332
+12,Sample Restaurant 12,Rajkot,Street Food,4.2,278
+13,Sample Restaurant 13,Pune,Chinese,3.8,106
+14,Sample Restaurant 14,Mumbai,North Indian,4.4,67
+15,Sample Restaurant 15,Mumbai,North Indian,4.0,216
+16,Sample Restaurant 16,Rajkot,Desserts,3.4,85
+17,Sample Restaurant 17,Vadodara,Chinese,4.0,250
+18,Sample Restaurant 18,Surat,Chinese,3.3,129
+19,Sample Restaurant 19,Pune,Fast Food,4.2,950
+20,Sample Restaurant 20,Mumbai,North Indian,3.8,146
+21,Sample Restaurant 21,Ahmedabad,Fast Food,3.7,67
+22,Sample Restaurant 22,Mumbai,Fast Food,3.5,174
+23,Sample Restaurant 23,Ahmedabad,Street Food,4.4,300
+24,Sample Restaurant 24,Mumbai,North Indian,3.7,579
+25,Sample Restaurant 25,Mumbai,North Indian,3.6,338
+26,Sample Restaurant 26,Ahmedabad,South Indian,3.6,219
+27,Sample Restaurant 27,Vadodara,Street Food,4.1,798
+28,Sample Restaurant 28,Ahmedabad,North Indian,4.0,69
+29,Sample Restaurant 29,Rajkot,Pizza,4.0,114
+30,Sample Restaurant 30,Pune,North Indian,4.0,88
+31,Sample Restaurant 31,Ahmedabad,Street Food,4.9,211
+32,Sample Restaurant 32,Vadodara,Gujarati,3.6,46
+33,Sample Restaurant 33,Pune,Biryani,3.5,263
+34,Sample Restaurant 34,Surat,Gujarati,3.4,112
+35,Sample Restaurant 35,Ahmedabad,North Indian,4.1,56
+36,Sample Restaurant 36,Vadodara,North Indian,4.4,98
+37,Sample Restaurant 37,Rajkot,Desserts,3.7,225
+38,Sample Restaurant 38,Rajkot,Gujarati,3.4,292
+39,Sample Restaurant 39,Surat,Pizza,3.4,830
+40,Sample Restaurant 40,Pune,Street Food,4.1,2945
+41,Sample Restaurant 41,Rajkot,Street Food,4.2,326
+42,Sample Restaurant 42,Surat,Cafe,4.1,87
+43,Sample Restaurant 43,Pune,Desserts,3.5,21
+44,Sample Restaurant 44,Pune,Chinese,3.9,244
+45,Sample Restaurant 45,Vadodara,Desserts,3.9,92
+46,Sample Restaurant 46,Ahmedabad,Chinese,3.9,132
+47,Sample Restaurant 47,Rajkot,Fast Food,4.2,129
+48,Sample Restaurant 48,Rajkot,Street Food,3.9,169
+49,Sample Restaurant 49,Ahmedabad,Biryani,4.1,558
+50,Sample Restaurant 50,Rajkot,Desserts,3.8,208
+51,Sample Restaurant 51,Pune,Biryani,3.9,166
+52,Sample Restaurant 52,Ahmedabad,Desserts,4.1,84
+53,Sample Restaurant 53,Mumbai,Street Food,3.1,23
+54,Sample Restaurant 54,Ahmedabad,Gujarati,3.6,102
+55,Sample Restaurant 55,Mumbai,Pizza,3.6,151
+56,Sample Restaurant 56,Vadodara,North Indian,3.5,729
+57,Sample Restaurant 57,Ahmedabad,Desserts,3.7,191
+58,Sample Restaurant 58,Pune,South Indian,4.5,623
+59,Sample Restaurant 59,Ahmedabad,South Indian,3.4,87
+60,Sample Restaurant 60,Rajkot,South Indian,4.3,81
+61,Sample Restaurant 61,Surat,Cafe,3.0,39
+62,Sample Restaurant 62,Pune,Street Food,3.6,83
+63,Sample Restaurant 63,Mumbai,Fast Food,3.9,1304
+64,Sample Restaurant 64,Mumbai,Pizza,4.1,102
+65,Sample Restaurant 65,Vadodara,South Indian,4.2,478
+66,Sample Restaurant 66,Vadodara,Gujarati,4.2,99
+67,Sample Restaurant 67,Rajkot,Gujarati,3.6,368
+68,Sample Restaurant 68,Mumbai,Chinese,3.6,225
+69,Sample Restaurant 69,Pune,Fast Food,4.2,195
+70,Sample Restaurant 70,Ahmedabad,Street Food,3.7,164
+71,Sample Restaurant 71,Rajkot,Desserts,3.2,64
+72,Sample Restaurant 72,Ahmedabad,North Indian,3.2,173
+73,Sample Restaurant 73,Surat,Gujarati,3.3,84
+74,Sample Restaurant 74,Mumbai,Desserts,4.0,67
+75,Sample Restaurant 75,Surat,North Indian,3.9,60
+76,Sample Restaurant 76,Mumbai,Gujarati,4.1,249
+77,Sample Restaurant 77,Vadodara,Pizza,3.6,660
+78,Sample Restaurant 78,Surat,Fast Food,3.9,221
+79,Sample Restaurant 79,Vadodara,Cafe,4.1,192
+80,Sample Restaurant 80,Rajkot,Gujarati,3.6,206
+81,Sample Restaurant 81,Mumbai,Desserts,4.0,657
+82,Sample Restaurant 82,Rajkot,Desserts,3.5,181
+83,Sample Restaurant 83,Pune,Desserts,3.6,110
+84,Sample Restaurant 84,Pune,Fast Food,3.6,431
+85,Sample Restaurant 85,Mumbai,South Indian,3.2,170
+86,Sample Restaurant 86,Rajkot,Fast Food,4.0,808
+87,Sample Restaurant 87,Surat,Chinese,3.6,188
+88,Sample Restaurant 88,Vadodara,Desserts,3.8,60
+89,Sample Restaurant 89,Ahmedabad,Street Food,4.0,59
+90,Sample Restaurant 90,Vadodara,Biryani,4.0,897
+91,Sample Restaurant 91,Pune,Cafe,4.1,1009
+92,Sample Restaurant 92,Vadodara,Cafe,3.8,154
+93,Sample Restaurant 93,Ahmedabad,Cafe,3.6,112
+94,Sample Restaurant 94,Rajkot,Biryani,3.8,675
+95,Sample Restaurant 95,Pune,Biryani,3.0,34
+96,Sample Restaurant 96,Pune,North Indian,3.1,46
+97,Sample Restaurant 97,Surat,Desserts,3.1,187
+98,Sample Restaurant 98,Vadodara,Street Food,3.3,88
+99,Sample Restaurant 99,Rajkot,Chinese,4.0,202
+100,Sample Restaurant 100,Surat,Street Food,3.3,109

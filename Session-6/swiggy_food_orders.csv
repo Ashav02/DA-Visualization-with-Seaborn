@@ -1,0 +1,21 @@
+Order_ID,Restaurant,Food_Item,City,Order_Date,Quantity,Price,Rating,Payment_Method,Delivery_Time_Min,Total_Amount
+1001,Spice Hub,Paneer Butter Masala,Ahmedabad,2026-11-01,2,280,4.3,UPI,32,560
+1002,Pizza Corner,Margherita Pizza,Surat,2026-11-01,1,399,4.1,Credit Card,28,399
+1003,Dosa House,Masala Dosa,Rajkot,2026-11-02,2,160,4.5,Cash,25,320
+1004,Burger Point,Veg Burger,Ahmedabad,2026-11-02,1,149,3.9,UPI,35,149
+1005,Gujarati Thali,Gujarati Thali,Surat,2026-11-03,1,250,4.6,UPI,40,250
+1006,Biryani Express,Chicken Biryani,Vadodara,2026-11-03,2,520,4.4,Debit Card,45,1040
+1007,The Wrap Kitchen,Paneer Wrap,Rajkot,2026-11-04,1,220,4.2,Cash,30,220
+1008,Pasta Street,White Sauce Pasta,Ahmedabad,2026-11-04,1,310,4.0,UPI,38,310
+1009,South Spice,Idli Sambar,Surat,2026-11-05,3,120,4.5,Credit Card,22,360
+1010,Chinese Wok,Veg Hakka Noodles,Vadodara,2026-11-05,1,240,3.8,UPI,34,240
+1011,Tandoori Nights,Tandoori Paneer,Rajkot,2026-11-06,2,360,4.3,Cash,42,720
+1012,Cafe Delight,Cold Coffee,Ahmedabad,2026-11-06,1,180,4.1,UPI,26,180
+1013,Rolls & Bowls,Veg Kathi Roll,Surat,2026-11-07,2,260,4.2,Debit Card,31,520
+1014,Punjabi Tadka,Chole Bhature,Rajkot,2026-11-07,1,190,4.4,UPI,39,190
+1015,Healthy Bites,Veg Salad,Vadodara,2026-11-08,1,210,4.0,Credit Card,29,210
+1016,Momos Junction,Steamed Momos,Ahmedabad,2026-11-08,2,200,4.2,Cash,33,400
+1017,Royal Sweets,Gulab Jamun,Surat,2026-11-09,3,150,4.6,UPI,24,450
+1018,Sandwich Stop,Cheese Sandwich,Rajkot,2026-11-09,1,170,3.9,Debit Card,27,170
+1019,Fry Nation,French Fries,Vadodara,2026-11-10,2,130,4.1,UPI,30,260
+1020,Idli Express,Rava Idli,Ahmedabad,2026-11-10,2,140,4.3,Cash,23,280
